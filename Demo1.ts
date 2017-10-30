@@ -46,3 +46,5 @@ tenfunction(2);
 console.log(person.age + ' - ' + person.name);
 
 console.log(arrayPerson[1].name);
+
+console.log(1);
